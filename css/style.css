@@ -1,0 +1,40 @@
+header h1{
+    text-align: center;
+color: white
+}
+header{
+    background-color: black;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    background-color: aquamarine;
+}
+h4{color: black;}
+nav a{
+    text-decoration: none;
+    border-left: 2px solid white;
+    padding: 5px;
+    
+}
+#main-section{
+    display: flex;
+}
+.dance{
+    width: 300px;
+    height: 300px;
+}
+h3{
+    font-size: bolder;
+    justify-content: center;
+    text-align: center;
+}
+p{
+    display: flex;
+    align-items:flex-end;
+    font-size:larger;
+    justify-content: center;
+    text-align: center;
+}
+
